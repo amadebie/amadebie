@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ama Konadu
-- 👀 I’m interested in Cloud Computing, Data Analytics and Fintech.
+- 👀 I’m interested in Cloud Computing, Software Engineering, AI&ML and Finance
 - 🌱 I’m currently taking online courses to enhance my skills in cloud engineering & software engineering.
 - 💞️ I’m looking to collaborate on projects based on Financial and Health Analytics.
 
