@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amadebie
+- 👋 Hi, I’m Ama Konadu
 - 👀 I’m interested in Cloud Computing, Data Analytics and Fintech.
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently taking online courses to enhance my skills in cloud engineering & software engineering.
 - 💞️ I’m looking to collaborate on projects based on Financial and Health Analytics.
 
 
